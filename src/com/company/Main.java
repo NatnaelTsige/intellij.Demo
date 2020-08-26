@@ -8,7 +8,7 @@ public class Main {
     }
 
     public static void newl(){
-        System.out.println("fuck you");
+        System.out.println("happy");
     }
 
     public static int m = 9;
