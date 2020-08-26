@@ -11,6 +11,10 @@ public class Main {
         System.out.println("happy");
     }
 
+    public static void happy(){
+        System.out.println("day");
+    }
+
     public static int m = 9;
 
 
